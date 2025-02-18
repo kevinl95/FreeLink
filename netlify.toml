@@ -2,5 +2,14 @@
   command = ""
   publish = "public"
 
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/redirect"
+  status = 200
+  force = true
+
+[functions]
+  directory = "functions"
+
 [template.environment]
   REDIRECT_URL = "Paste your link to redirect to here!"
