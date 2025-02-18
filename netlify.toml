@@ -4,9 +4,3 @@
 
 [template.environment]
   REDIRECT_URL = "Paste your link to redirect to here!"
-
-[[redirects]]
-  from = "/*"
-  to = ":env(REDIRECT_URL)"
-  status = 301
-  force = true
