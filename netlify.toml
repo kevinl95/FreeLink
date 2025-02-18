@@ -1,6 +1,6 @@
 [build]
-  command = "echo 'Build complete'"
-  publish = "."
+  command = ""
+  publish = "public"
 
 [template.environment]
   REDIRECT_URL = "Paste your link to redirect to here!"
