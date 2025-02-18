@@ -1,1 +1,1 @@
-/  /:env(REDIRECT_URL)  301
+/  /{{env:REDIRECT_URL}}  301
