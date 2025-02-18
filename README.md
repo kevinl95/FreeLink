@@ -41,8 +41,18 @@ If you already own a domain (from Namecheap, Google Domains, etc.):
 
 ### Option 3: Use a Free Domain
 
-If you don’t want to buy a domain, you can use:
+### 🌍 Free Domain Options  
+If you want to use a custom domain without paying, here are some free options:  
 
-- [Freenom](https://www.freenom.com/) for .tk, .ml, .ga, .cf, .gq domains.
-- [EU.org](https://nic.eu.org/) for free .eu.org domains.
-- [DuckDNS](https://www.duckdns.org/) for a free subdomain (`yourname.duckdns.org`).
+- **[InfinityFree](https://infinityfree.net/domains/)** – Provides free `.epizy.com` and `.rf.gd` subdomains.  
+- **[DuckDNS](https://www.duckdns.org/)** – Free dynamic DNS with subdomains (`yourname.duckdns.org`).  
+- **[No-IP](https://www.noip.com/)** – Free subdomains like `yourname.ddns.net` (requires renewal every 30 days).  
+- **[Dynu](https://www.dynu.com/)** – Free subdomains with no monthly renewal requirement.  
+- **[EU.org](https://nic.eu.org/)** – Free `.eu.org` domains (requires manual approval but works worldwide).  
+
+### 💰 Cheap Domain Options  
+If you want full control over your domain, you can get one for **$1–$5 per year**:  
+
+- **[Namecheap](https://www.namecheap.com/)** – Frequently offers $1 `.xyz` or `.online` domains.  
+- **[Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)** – No markup, sells at wholesale prices.  
+- **[Porkbun](https://porkbun.com/)** – Regularly has $1–$3 domain deals.  
