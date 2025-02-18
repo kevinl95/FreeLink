@@ -20,7 +20,7 @@ Click the button below to deploy this project:
 2. Enter the **URL** you want to redirect to when prompted.
 3. Set up a **custom domain** in Netlify settings.
 
-By default, Netlify gives you a free subdomain like `your-site.netlify.app`, but you can connect your own domain for better branding and stability.
+By default, Netlify gives you a free subdomain like `your-site.netlify.app`, but you can should connect your own domain to avoid netlify.app from becoming blocked on your target platform.
 
 ### Option 1: Buy a New Domain in Netlify
 
