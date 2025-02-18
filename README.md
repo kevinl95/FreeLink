@@ -45,8 +45,7 @@ If you already own a domain (from Namecheap, Google Domains, etc.):
 If you want a free custom domain that works with Netlify, here are some options:  
 
 - **[No-IP](https://www.noip.com/)** – Free subdomains (`yourname.ddns.net`) with CNAME support.  
-  - ⚠️ Requires renewal every 30 days for free accounts.  
-- **[Dynu](https://www.dynu.com/)** – Free subdomains with full DNS control, including CNAME.  
+  - ⚠️ Requires renewal every 30 days for free accounts.
 - **[EU.org](https://nic.eu.org/)** – Free `.eu.org` domains with full DNS management.  
   - ⚠️ Requires manual approval, which can take time.  
 
