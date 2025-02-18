@@ -2,6 +2,12 @@
 
 This Netlify template lets you create censorship-resistant redirects. Deploy your own redirect site in seconds.
 
+## Why?
+
+Certain platforms censor links to important services. This allows you to generate your own **censorship-resistant link** using a free Netlify account.
+
+Why not just use a link shortener? Platforms can easily censor link shorteners, just like they can the link you're trying to post. FreeLink hopes to create a game of whack-a-mole with unique domains per user that are too hard to censor.
+
 ## Deploy to Netlify
 
 Click the button below to deploy this project:
@@ -40,7 +46,3 @@ If you don’t want to buy a domain, you can use:
 - [Freenom](https://www.freenom.com/) for .tk, .ml, .ga, .cf, .gq domains.
 - [EU.org](https://nic.eu.org/) for free .eu.org domains.
 - [DuckDNS](https://www.duckdns.org/) for a free subdomain (`yourname.duckdns.org`).
-
-## Why?
-
-Certain platforms censor links to important services. This allows you to generate your own **censorship-resistant link** using a free Netlify account.
