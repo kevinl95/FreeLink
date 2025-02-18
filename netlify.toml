@@ -2,11 +2,5 @@
   command = ""
   publish = "public"
 
-[[plugins]]
-package = "netlify-plugin-redirect-env-placeholders"
-  [plugins.inputs]
-  source = '_redirects'
-  base = '/public'
-
 [template.environment]
   REDIRECT_URL = "Paste your link to redirect to here!"
